@@ -1,31 +1,30 @@
-🚀 ZETRA | Mushi Dharun
+🧠 About Me
 
-💻 AI & Data Science Student | Developer | Discord Bot Specialist
+🚀 ZETRA | Mushi Dharun
+💻 AI & Data Science Student | Developer | Full Stack Developer | Python Engineer
 📍 Sivakasi, Tamil Nadu, India
 
 
-🧠 About Me
+🔥 Skills
 
-I am a passionate developer focused on building Discord bots, automation systems, and backend solutions. I believe in consistency, growth, and learning through real-world projects.
-
-
-⚡ Skills
-
-🐍 Python
-🤖 Discord Bot Development
-⚙️ Automation Systems
-🗄️ MySQL
-🎮 Lua & FiveM
-🌐 HTML, CSS, JavaScript
-🛠️ Debugging & Problem Solving
-🚀 Projects
+Python (Automation, Backend)
+C / C++
+JavaScript (Frontend & Backend)
+HTML, CSS, React
+Database (MySQL, SQL)
+AI & Data Science
+UI/UX Design
+3D Modelling
 
 
-🎫 Ticket System Bot
+🧠 What I Build
 
-🔐 Auto Role Bot
-🛡️ Moderation Bot
-📊 Logging System
+Web Applications
+Automation Systems
+AI-Based Tools
+Scalable Backend APIs
+Modern UI Interfaces
+
 
 
 🌐 Connect With Me
